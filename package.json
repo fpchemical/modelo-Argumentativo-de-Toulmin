@@ -1,0 +1,28 @@
+{
+  "name": "revinter",
+  "version": "1.0.0",
+  "description": "Reversal interpolation on a string based on a pattern to recover tokens",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "keywords": [
+    "string",
+    "token",
+    "interpolation",
+    "pattern"
+  ],
+  "author": "Fred Souza",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/fmsouza/revinter"
+  },
+  "bugs": {
+    "url": "https://github.com/fmsouza/revinter/issues"
+  },
+  "devDependencies": {
+    "expect": "^1.20.2",
+    "mocha": "^3.2.0"
+  }
+}
