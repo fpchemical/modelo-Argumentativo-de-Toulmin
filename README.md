@@ -13,7 +13,10 @@ Representação do modelo de Toulmin
 ![mapa mental](http://www.scielo.br/img/revistas/epec/v16n3//1983-2117-epec-16-03-00147-gf1.png)
 
 
-Agora observem o exemplo que criei com a ajuda do @suissa que utilizou a programação para implementar o modelo 
+Agora observem o exemplo que criei com a ajuda do [Suissa](https://github.com/suissa) que utilizou a programação para implementar o modelo. E ainda adicionamos um elemento principal ao mapa mental, o qual concordamos que seja o mais importante: a problematização (P)
+
+Chegamos a conclusão de este, (P), deve ser o início de qualquer modelo argumentativo, ficando de livre escolha o caminho a ser seguido quanto aos outros elementos do mapa mental 
+
 ```js
 const revinter = require('revinter');
  
